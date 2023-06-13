@@ -35,8 +35,8 @@ const Contact = () => {
 
           <div className='social__icons'>
             <a href='https://www.facebook.com/RovicBalingbing20' target='_blank'><BsFacebook className='social__icon'/></a>
-            <a href='#' target='_blank'><BsLinkedin className='social__icon'/></a>
-            <a href='#' target='_blank'><BsGithub className='social__icon'/></a>
+            <a href='https://www.linkedin.com/in/rovicbalingbing/' target='_blank'><BsLinkedin className='social__icon'/></a>
+            <a href='https://github.com/rovicbalingbing' target='_blank'><BsGithub className='social__icon'/></a>
           </div>
 
           <article className='contact__option'>

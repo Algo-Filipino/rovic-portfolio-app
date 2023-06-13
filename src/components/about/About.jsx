@@ -18,8 +18,8 @@ const about = () => {
         <div className='about__right'>
           <h5 className='about__intro'>Hi! It's Me John Rovie</h5>
           <h5 className='about__intro1'>and I'm a <span className='typewriter'>Web Developer</span></h5>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in augue elementum, viverra diam sed, sagittis velit. Donec sit amet pulvinar odio. Aenean lacinia, purus sed porta condimentum, justo augue mollis eros, at hendrerit purus ante condimentum quam.</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in augue elementum, viverra diam sed, sagittis velit. Donec sit amet pulvinar odio. Aenean lacinia, purus sed porta condimentum, justo augue mollis eros, at hendrerit purus ante condimentum quam.</p>
+          <p>In my 4th year at college, I focused on mobile and web development since our CAPSTONE project was to create a web-based and mobile application for a real-time public emergency reporting and monitoring system. Here, I started to become fond of full-stack web development. I also learned about Java and Kotlin for Android Studio.</p>
+          <p>After our CAPSTONE project, I started to find a company for an internship and this is where I got accepted as an intern at Algo Filipino. I became a part of their Web Team and started taking on challenges and tasks. I learned a lot of things here, including the importance of project management. I also tried different frameworks for web development such as Bootstrap and ReactJS.</p>
           <CTA />
         </div>
       </div>

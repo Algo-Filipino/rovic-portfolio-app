@@ -11,7 +11,7 @@ import MusicPlayer from '../../assets/music-player-app.PNG'
 const Projects = () => {
   return (
     <section id="projects">
-      <h5>What I Do</h5>
+      <h5>What I Did</h5>
       <h2>Projects</h2>
       <div className='projects__container'>
         <div className='projects__card'>

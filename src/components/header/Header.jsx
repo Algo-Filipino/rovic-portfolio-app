@@ -11,7 +11,7 @@ const Header = () => {
           <h5 className='intro'>Hi! It's Me</h5>
           <h1 className='name'>John Rovie</h1>
           <h5 className='text-light'>and I'm a <span className='typewriter'>Web Developer</span></h5>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in augue elementum, viverra diam sed, sagittis velit. Donec sit amet pulvinar odio. Aenean lacinia, purus sed porta condimentum, justo augue mollis eros, at hendrerit purus ante condimentum quam.</p>
+          <p>I spent my OJT/Internship at the Algo Filipino, under the Teravision PH. Here, I learned a lot of things that will surely helped me in the future. I learned how to use Git & GitHub for project management and how to use ReactJS in creating a web application. At the end of my internship, I created 3 major work tasks and 4 coding challenges that you can see at the "Projects" tab.</p>
           <CTA />
         </div>
 
