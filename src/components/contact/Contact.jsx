@@ -4,6 +4,9 @@ import { MdOutlineEmail } from 'react-icons/md'
 import { RiMessengerLine } from 'react-icons/ri'
 import { useRef } from 'react';
 import emailjs from 'emailjs-com'
+import { BsFacebook } from 'react-icons/bs'
+import { BsLinkedin } from 'react-icons/bs'
+import { BsGithub } from 'react-icons/bs'
 
 const Contact = () => {
   const form = useRef();
@@ -30,12 +33,19 @@ const Contact = () => {
             <a href='mailto:balingbing.johnrovie20@gmail.com' target='_blank'>Send a Message</a>
           </article>
 
+          <div className='social__icons'>
+            <a href='https://www.facebook.com/RovicBalingbing20' target='_blank'><BsFacebook className='social__icon'/></a>
+            <a href='#' target='_blank'><BsLinkedin className='social__icon'/></a>
+            <a href='#' target='_blank'><BsGithub className='social__icon'/></a>
+          </div>
+
           <article className='contact__option'>
             <RiMessengerLine className='contact__option-icon'/>
             <h4 className='contact__title'>Messenger</h4>
             <h5 className='contact__email'>@RovicBalingbing20</h5>
             <a href='https://m.me/RovicBalingbing20' target='_blank'>Send a Message</a>
           </article>
+          
         </div>
 
         <form ref={form} onSubmit={sendEmail}>

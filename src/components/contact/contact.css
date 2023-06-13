@@ -50,6 +50,21 @@
     color: var(--color-accent-variant);
 }
 
+.social__icons {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
+}
+.social__icon {
+    font-size: 2rem;
+    color: var(--color-accent-variant);
+}
+
+.social__icon:hover {
+    color: var(--color-accent);
+}
+
 /* ============== FORM =====================*/
 
 form {
@@ -81,7 +96,13 @@ input, textarea  {
 
     form {
         margin-bottom: 10rem;
+        margin: 0px 20px
     }
+
+    .contact__option {
+        margin: 0px 20px
+    }
+
 }
 
 /* ===================== MEDIA QUERIES (PHONE) =========================== */

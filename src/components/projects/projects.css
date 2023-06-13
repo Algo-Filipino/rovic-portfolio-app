@@ -1,3 +1,7 @@
+#projects {
+    height: 100%;
+}
+
 .projects__container {
     position: relative;
     display: flex;
@@ -116,11 +120,30 @@
     #projects {
         height: 100%;
     }
+
+    .projects__card:hover {
+        height: 400px;
+    }
+}
+
+@media screen and (max-width: 1440px) {
+    #projects {
+        height: 100%;
+    }
 }
 
 /* ===================== MEDIA QUERIES (PHONE) =========================== */
 @media screen and (max-width: 600px) {
     #projects {
         height: 100%;
+    }
+
+    .projects__imgBox {
+        width: 250px;
+    }
+
+    .projects__content a {
+        width: 6rem;
+        font-size: 0.7rem;
     }
 }

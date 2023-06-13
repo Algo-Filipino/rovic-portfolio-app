@@ -6,7 +6,8 @@ import CTA from '../header/CTA'
 const about = () => {
   return (
     <section id='about'>
-      <h2 className='about__title'>About Me</h2>
+      <h5>Get to Know</h5>
+      <h2>About Me</h2>
       <div className='about__container'>
         <div className='about__left'>
           <div className='about__image'> 
