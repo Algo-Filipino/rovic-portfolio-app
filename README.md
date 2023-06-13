@@ -4,10 +4,10 @@ This project is a work portfolio application created using ReactJS. It includes 
 
 > Wireframe (Figma) Link: [High Fidelity Wireframe using Figma](https://www.figma.com/file/gREqCwcHyr85TPaWRAMIqW/Work-Portfolio?type=design&node-id=0%3A1&t=FS5XquhZyrvVRI6K-1)
 
-> Website Link: [https://rovzzz-todo-list.netlify.app/](https://rovzzz-todo-list.netlify.app/)
+> Website Link: [https://rovic-work-portfolio.netlify.app/](https://rovic-work-portfolio.netlify.app/)
 
 Website Screenshot: 
-[![Work Portfolio App (JRB Official.)](src/assets/work-portfolio.PNG)](https://rovzzz-todo-list.netlify.app/) 
+[![Work Portfolio App (JRB Official.)](src/assets/work-portfolio.PNG)](https://rovic-work-portfolio.netlify.app/) 
 
 # How to Use / Install the Project?
 
