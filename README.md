@@ -2,7 +2,9 @@
 
 This project is a work portfolio application created using ReactJS. It includes all the work tasks I created during my internship at Algo Filipino (Teravision PH). This is a one-page website that includes information about me, my projects, and how to contact me.
 
-> Wireframe (Figma) Link: [High Fidelity Wireframe using Figma](https://www.figma.com/file/gREqCwcHyr85TPaWRAMIqW/Work-Portfolio?type=design&node-id=0%3A1&t=FS5XquhZyrvVRI6K-1)
+> Hi-Fi Wireframe (Figma) Link: [High Fidelity Wireframe using Figma](https://www.figma.com/file/gREqCwcHyr85TPaWRAMIqW/Work-Portfolio-(High-Fidelity-Wireframe)?type=design&node-id=0%3A1&t=DTPemYvC2MykffqR-1)
+
+> Lo-Fi Wireframe (Figma) Link: [Low Fidelity Wireframe using Figma](https://www.figma.com/file/26iYAqL7706nqAQKTMzpVK/Work-Portfolio-(Low-Fidelity-Wireframe)?type=design&node-id=0%3A1&t=rfrZdBymYxuSFjxV-1)
 
 > Website Link: [https://rovic-work-portfolio.netlify.app/](https://rovic-work-portfolio.netlify.app/)
 
